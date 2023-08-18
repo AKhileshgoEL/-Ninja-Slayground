@@ -11,4 +11,7 @@ int dataTypes(string type) {
 		return 1;
 	}
 }
+// we can also write integers 
+// just 'i' written
+// even we can write (type==integer)
 
